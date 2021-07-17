@@ -1,2 +1,2 @@
-# Tableau-Viz
-Data visualizations I've created using the Tableau Desktop tool.
+# Data Visualization for Crimes Against Women (Andhra Pradesh)
+Data visualizations I've created using the Tableau Desktop tool. The dataset includes numbers for crimes committed against women in India. I've created viz for Andhra Pradesh, a state in southern India. Viz include acquitted, convicted, false and types of criminal cases. The case subtype means the crime classification including molestation, rape, kidnapping, domestic violence etc. The numbers have been graphically represented yearwise. The dataset also includes cases deemed as false or invalid due to incorrect facts or even lawlessness.
